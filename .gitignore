@@ -1,0 +1,8 @@
+/.env
+/critical.log
+/error.log
+/logs.log
+/text.txt
+/train_data_false.txt
+/train_data_true
+/train_data_true.txt
